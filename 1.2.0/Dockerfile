@@ -1,5 +1,5 @@
 FROM springxd/base:1.2.0
-MAINTAINER Eric Bottard
+MAINTAINER Charlie Pence
 
 USER root
 COPY start /opt/spring-xd/start
